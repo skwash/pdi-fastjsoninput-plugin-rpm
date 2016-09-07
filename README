@@ -1,0 +1,3 @@
+This is an RPM build setup for the pdi-fastjsoninput-plugin maintained by Graphiq: https://github.com/graphiq-data/pdi-fastjsoninput-plugin
+
+Run build.sh to download the source distribution and build an RPM based on the spec file.
